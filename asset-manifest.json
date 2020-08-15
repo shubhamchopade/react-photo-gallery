@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-photo-gallery/static/css/main.1d66e41c.chunk.css",
+    "main.js": "/react-photo-gallery/static/js/main.f6acff9a.chunk.js",
+    "main.js.map": "/react-photo-gallery/static/js/main.f6acff9a.chunk.js.map",
+    "runtime-main.js": "/react-photo-gallery/static/js/runtime-main.24cbca52.js",
+    "runtime-main.js.map": "/react-photo-gallery/static/js/runtime-main.24cbca52.js.map",
+    "static/js/2.9261d6e5.chunk.js": "/react-photo-gallery/static/js/2.9261d6e5.chunk.js",
+    "static/js/2.9261d6e5.chunk.js.map": "/react-photo-gallery/static/js/2.9261d6e5.chunk.js.map",
+    "index.html": "/react-photo-gallery/index.html",
+    "precache-manifest.43157303c6d2af96a3c328ec4e2e54f5.js": "/react-photo-gallery/precache-manifest.43157303c6d2af96a3c328ec4e2e54f5.js",
+    "service-worker.js": "/react-photo-gallery/service-worker.js",
+    "static/css/main.1d66e41c.chunk.css.map": "/react-photo-gallery/static/css/main.1d66e41c.chunk.css.map",
+    "static/js/2.9261d6e5.chunk.js.LICENSE.txt": "/react-photo-gallery/static/js/2.9261d6e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cbca52.js",
+    "static/js/2.9261d6e5.chunk.js",
+    "static/css/main.1d66e41c.chunk.css",
+    "static/js/main.f6acff9a.chunk.js"
+  ]
+}
