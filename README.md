@@ -1,2 +1,2 @@
 # React + Firebase
-## Used framer-motion for animations. 
+Used framer-motion for animations. 
